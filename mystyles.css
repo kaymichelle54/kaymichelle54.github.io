@@ -1,0 +1,19 @@
+  p{
+    color:, blue;
+    background-color:;
+  }
+
+  #aboutme{
+    background-color: purple;
+    font-size:75px;
+    font-family: fantasy;
+  }
+
+  #paradise {
+    height: 100px;
+
+  }
+
+  body {
+    background-image: url("purple5.jpg");
+  }
